@@ -1,1 +1,1 @@
--Dynamax HP can't go over 999 without graphical issues
+-Dynamax HP can't go over 0999 without graphical issues
